@@ -1214,6 +1214,13 @@
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
+"@zeit-ui/react@^1.8.0-canary.6":
+  version "1.8.0-canary.6"
+  resolved "https://registry.yarnpkg.com/@zeit-ui/react/-/react-1.8.0-canary.6.tgz#1f935ad4fb03785bbb89edec33c807658eec5477"
+  integrity sha512-zYvyyLl7ykOXoEBePjCKmOGeZqjt/Ql8Cq8Ql1f9Uqwyo/q+JCGdg//CbrvKCh3gmk4k4dN3WQZ6vO5hzzBtQw==
+  dependencies:
+    styled-jsx "^3.2.5"
+
 acorn@^6.4.1:
   version "6.4.1"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
@@ -5132,7 +5139,7 @@ style-loader@1.2.1:
     loader-utils "^2.0.0"
     schema-utils "^2.6.6"
 
-styled-jsx@3.3.0:
+styled-jsx@3.3.0, styled-jsx@^3.2.5:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/styled-jsx/-/styled-jsx-3.3.0.tgz#32335c1a3ecfc923ba4f9c056eeb3d4699006b09"
   integrity sha512-sh8BI5eGKyJlwL4kNXHjb27/a/GJV8wP4ElRIkRXrGW3sHKOsY9Pa1VZRNxyvf3+lisdPwizD9JDkzVO9uGwZw==
